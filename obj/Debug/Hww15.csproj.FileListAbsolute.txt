@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Hww15\Hww15\obj\Debug\Hww15.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Hww15\Hww15\bin\Debug\Hww15.exe.config
+C:\Users\admin\source\repos\Hww15\Hww15\bin\Debug\Hww15.exe
+C:\Users\admin\source\repos\Hww15\Hww15\bin\Debug\Hww15.pdb
+C:\Users\admin\source\repos\Hww15\Hww15\obj\Debug\Hww15.exe
+C:\Users\admin\source\repos\Hww15\Hww15\obj\Debug\Hww15.pdb
